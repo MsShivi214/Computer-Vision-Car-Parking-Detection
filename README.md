@@ -1,7 +1,6 @@
 # Car Parking Space Detection Project
 
-This project demonstrates a simple car parking space detection system using OpenCV and cvzone. It allows you to mark parking spaces on a static image, and then it detects the occupancy of these spaces in a video feed. The project was inspired by [Murtaza's Computer Vision Zone](https://www.computervision.zone/) course.
-
+This project demonstrates a simple car parking space detection system using OpenCV and cvzone. It allows you to mark parking spaces on a static image, and then it detects the occupancy of these spaces in a video feed. 
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
